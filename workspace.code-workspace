@@ -1,0 +1,102 @@
+{
+  "folders": [
+    {
+      "path": "docs/adr",
+      "name": "sparringday-docs-adr"
+    },
+    {
+      "path": "infra/01-network",
+      "name": "sparringday-infra-01-network"
+    },
+    {
+      "path": "infra/02-config",
+      "name": "sparringday-infra-02-config"
+    },
+    {
+      "path": "infra/03-database",
+      "name": "sparringday-infra-03-database"
+    },
+    {
+      "path": "infra/04-auth",
+      "name": "sparringday-infra-04-auth"
+    },
+    {
+      "path": "infra/05-storage",
+      "name": "sparringday-infra-05-storage"
+    },
+    {
+      "path": "infra/06-messaging",
+      "name": "sparringday-infra-06-messaging"
+    },
+    {
+      "path": "infra/07-api",
+      "name": "sparringday-infra-07-api"
+    },
+    {
+      "path": "infra/08-email",
+      "name": "sparringday-infra-08-email"
+    },
+    {
+      "path": "infra/09-streaming",
+      "name": "sparringday-infra-09-streaming"
+    },
+    {
+      "path": "infra/10-edge",
+      "name": "sparringday-infra-10-edge"
+    },
+    {
+      "path": "infra/11-observability",
+      "name": "sparringday-infra-11-observability"
+    },
+    {
+      "path": "services/auth-service",
+      "name": "sparringday-svc-auth-service"
+    },
+    {
+      "path": "services/events-service",
+      "name": "sparringday-svc-events-service"
+    },
+    {
+      "path": "services/sparring-service",
+      "name": "sparringday-svc-sparring-service"
+    },
+    {
+      "path": "services/ranking-service",
+      "name": "sparringday-svc-ranking-service"
+    },
+    {
+      "path": "services/media-service",
+      "name": "sparringday-svc-media-service"
+    },
+    {
+      "path": "services/notification-service",
+      "name": "sparringday-svc-notification-service"
+    },
+    {
+      "path": "services/billing-service",
+      "name": "sparringday-svc-billing-service"
+    },
+    {
+      "path": "services/ai-service",
+      "name": "sparringday-svc-ai-service"
+    },
+    {
+      "path": "frontend/web-portal",
+      "name": "sparringday-frontend-web-portal"
+    },
+    {
+      "path": "frontend/mobile",
+      "name": "sparringday-frontend-mobile"
+    },
+    {
+      "path": "automation",
+      "name": "sparringday-automation"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.DS_Store": true
+    }
+  }
+}

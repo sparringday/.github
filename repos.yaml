@@ -1,0 +1,122 @@
+# YAML simples; cada entrada corresponde a um repositório Git independente.
+repositories:
+  - name: sparringday-workspace
+    path: "."
+    type: workspace
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-workspace.git
+  - name: sparringday-docs-adr
+    path: "docs/adr"
+    type: docs
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-docs-adr.git
+  - name: sparringday-infra-01-network
+    path: "infra/01-network"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-01-network.git
+  - name: sparringday-infra-02-config
+    path: "infra/02-config"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-02-config.git
+  - name: sparringday-infra-03-database
+    path: "infra/03-database"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-03-database.git
+  - name: sparringday-infra-04-auth
+    path: "infra/04-auth"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-04-auth.git
+  - name: sparringday-infra-05-storage
+    path: "infra/05-storage"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-05-storage.git
+  - name: sparringday-infra-06-messaging
+    path: "infra/06-messaging"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-06-messaging.git
+  - name: sparringday-infra-07-api
+    path: "infra/07-api"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-07-api.git
+  - name: sparringday-infra-08-email
+    path: "infra/08-email"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-08-email.git
+  - name: sparringday-infra-09-streaming
+    path: "infra/09-streaming"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-09-streaming.git
+  - name: sparringday-infra-10-edge
+    path: "infra/10-edge"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-10-edge.git
+  - name: sparringday-infra-11-observability
+    path: "infra/11-observability"
+    type: infra
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-infra-11-observability.git
+  - name: sparringday-svc-auth-service
+    path: "services/auth-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-auth-service.git
+  - name: sparringday-svc-events-service
+    path: "services/events-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-events-service.git
+  - name: sparringday-svc-sparring-service
+    path: "services/sparring-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-sparring-service.git
+  - name: sparringday-svc-ranking-service
+    path: "services/ranking-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-ranking-service.git
+  - name: sparringday-svc-media-service
+    path: "services/media-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-media-service.git
+  - name: sparringday-svc-notification-service
+    path: "services/notification-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-notification-service.git
+  - name: sparringday-svc-billing-service
+    path: "services/billing-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-billing-service.git
+  - name: sparringday-svc-ai-service
+    path: "services/ai-service"
+    type: service
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-svc-ai-service.git
+  - name: sparringday-frontend-web-portal
+    path: "frontend/web-portal"
+    type: frontend-web
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-frontend-web-portal.git
+  - name: sparringday-frontend-mobile
+    path: "frontend/mobile"
+    type: frontend-mobile
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-frontend-mobile.git
+  - name: sparringday-automation
+    path: "automation"
+    type: automation
+    owner: sparringday
+    url: https://github.com/sparringday/sparringday-automation.git

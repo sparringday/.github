@@ -1,0 +1,12 @@
+# Os repositórios filhos possuem seus próprios históricos Git.
+docs/adr/
+infra/
+services/
+frontend/
+automation/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
